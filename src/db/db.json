@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "9f282658-54e3-4c94-b1c4-dc8048fc316c",
+    "name": "Lillian Legros",
+    "phone": "356-661-0550 x29948",
+    "email": "Elva42@gmail.com",
+    "job": "Principal Integration Administrator"
+  },
+  {
+    "id": "d2e87a33-9ed9-4d9c-9847-d731386fd61a",
+    "name": "Teri Yost",
+    "phone": "(706) 316-7029 x18790",
+    "email": "Theodora2@yahoo.com",
+    "job": "Lead Infrastructure Producer"
+  },
+  {
+    "id": "d03be24b-ab60-4003-beec-faa5d40de458",
+    "name": "Salvatore Pollich",
+    "phone": "(744) 387-3692",
+    "email": "Elizabeth_Crist@hotmail.com",
+    "job": "Future Program Supervisor"
+  },
+  {
+    "id": "b40e8acb-d75f-4a5d-be48-6368b042943e",
+    "name": "Gilberto Senger-Beer",
+    "phone": "1-730-986-9276 x5812",
+    "email": "Forest.Friesen@hotmail.com",
+    "job": "Future Quality Liaison"
+  }
+]
